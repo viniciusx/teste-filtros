@@ -1,10 +1,13 @@
 Filtros utilizados na melhoria dos arquivos de áudio:
 
-Nivelador (Leveler): ele é um compressor e limitador que reduz o alcançe dinâmico de um áudio, isto é, reduz a diferença entre alto e baixo, deixando o áudio mais fácil de ouvir em ambientes com muito barulho. E é especialmente útil em gravações de voz.
+Remover Ruído (Noise Removal): (Opcional): Remove ruídos de fundo.
 
 Normalizador (Normalize): ele equaliza a amplitude do áudio, deixando o volume equilibrado, sem nenhum som dominante.
+Ferramentas: Audacity (GUI) ou Normalize (http://normalize.nongnu.org/)
 
-Remover Ruído (Noise Removal): (Opcional): Remove ruídos de fundo.
+Nivelador (Leveler): ele é um compressor e limitador que reduz o alcançe dinâmico de um áudio, isto é, reduz
+a diferença entre alto e baixo, deixando o áudio mais fácil de ouvir em ambientes com muito barulho.
+E é especialmente útil em gravações de voz.
 
 Amplificador (Amplify): (Opcional) aumenta volume do áudio ou de trechos selecionados.
 
