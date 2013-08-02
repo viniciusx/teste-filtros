@@ -1,0 +1,17 @@
+Para fácil comparação, seguem todas as taxas de similaridade entre os textos:
+
+freak: 0.761904761904762 
+freak_ed: 0.761904761904762
+freakRE_ed: 0.651685393258427
+
+okay: 0.628571428571429
+okay_ed: 0.666666666666667
+
+paleo1: 0.721649484536083
+paleo1_ed: 0.673684210526316
+
+unpro: 0.596491228070175
+unpro_ed: 0.634920634920635
+
+weight: 0.682352941176471
+weight_ed: 0.69047619047619
