@@ -1,6 +1,6 @@
 Esta pasta contém os resultados da comparação de similaridade entre aquivos de áudio puros (simplesmente baixados da internet, sem nenhum tipo de edição) e arquivos melhorados através do uso das ferramentas citadas aqui: 
 https://github.com/viniciusx/teste-filtros/wiki/Dados.
-O valor representa a porcentagem de similaridade dos dois textos (transcrição automatizada e manual)
+O valor representa a porcentagem de similaridade dos dois textos (transcrição automatizada e manual).
 
 Em relação ao nome dos arquivos:
 	- Arquivos *.txt se referem a testes feitos com áudio puro.
