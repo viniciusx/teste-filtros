@@ -19,14 +19,14 @@ paleo1_levelnorm: 0.74468085106383
 paleo1_level:     0.74468085106383
 paleo1_norm:      0.666666666666667
 
-unpro: 0.596491228070175
-unpro_ed: 0.634920634920635
-unpro_levelnorm:
-unpro_level:
-unpro_norm:
+unpro:           0.596491228070175
+unpro_ed:        0.634920634920635
+unpro_levelnorm: 0.625
+unpro_level:     0.625
+unpro_norm:      0.596491228070175
 
-weight: 0.682352941176471
-weight_ed: 0.69047619047619
-weight_levelnorm:
-weight_level:
-weight_norm:
+weight:           0.682352941176471
+weight_ed:        0.69047619047619
+weight_levelnorm: 0.69047619047619
+weight_level:     0.682352941176471
+weight_norm:      0.69047619047619
