@@ -1,17 +1,32 @@
 Para fácil comparação, seguem todas as taxas de similaridade entre os textos:
 
-freak: 0.761904761904762 
-freak_ed: 0.761904761904762
-freakRE_ed: 0.651685393258427
+freak:           0.761904761904762 
+freak_ed:        0.761904761904762
+freakRE_ed:      0.651685393258427
+freak_levelnorm: 0.75609756097561
+freak_level:     0.740740740740741
+freak_norm:      0.776470588235294
 
-okay: 0.628571428571429
-okay_ed: 0.666666666666667
-
-paleo1: 0.721649484536083
-paleo1_ed: 0.673684210526316
+okay:           0.628571428571429
+okay_ed:        0.666666666666667
+okay_levelnorm: 0.666666666666667
+okay_level:     0.666666666666667
+okay_norm:      0.628571428571429
+  
+paleo1:           0.721649484536083
+paleo1_ed:        0.673684210526316
+paleo1_levelnorm: 0.74468085106383
+paleo1_level:     0.74468085106383
+paleo1_norm:      0.666666666666667
 
 unpro: 0.596491228070175
 unpro_ed: 0.634920634920635
+unpro_levelnorm:
+unpro_level:
+unpro_norm:
 
 weight: 0.682352941176471
 weight_ed: 0.69047619047619
+weight_levelnorm:
+weight_level:
+weight_norm:
