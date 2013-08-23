@@ -1,23 +1,31 @@
 Para fácil comparação, seguem todas as taxas de similaridade entre os textos:
 
-freak:           0.761904761904762 
-freak_ed:        0.761904761904762
-freakRE_ed:      0.651685393258427
-freak_levelnorm: 0.75609756097561
-freak_level:     0.740740740740741
-freak_norm:      0.776470588235294
+freak:                0.761904761904762 
+freak_ed:             0.761904761904762
+freakRE_ed:           0.651685393258427
+freak_levelnorm:      0.75609756097561
+freak_level:          0.740740740740741
+freak_norm:           0.776470588235294
+freak_ed_lowpass4500: 0.761
+freak_ed_highpass:    0.752
 
-okay:           0.628571428571429
-okay_ed:        0.666666666666667
-okay_levelnorm: 0.666666666666667
-okay_level:     0.666666666666667
-okay_norm:      0.628571428571429
+okay:                0.628571428571429
+okay_ed:             0.666666666666667
+okay_levelnorm:      0.666666666666667
+okay_level:          0.666666666666667
+okay_norm:           0.628571428571429
+okay_ed_lowpass3400: 0.666
+okay_ed_lowpass4500: 0.666
+okay_ed_highpass:    0.666
   
-paleo1:           0.721649484536083
-paleo1_ed:        0.673684210526316
-paleo1_levelnorm: 0.74468085106383
-paleo1_level:     0.74468085106383
-paleo1_norm:      0.666666666666667
+paleo1:                0.721649484536083
+paleo1_ed:             0.673684210526316
+paleo1_levelnorm:      0.74468085106383
+paleo1_level:          0.74468085106383
+paleo1_norm:           0.666666666666667
+paleo1_ed_lowpass3400: 0.673
+paleo1_ed_lowpass4500: 0.673
+paleo1_ed_highpass:    0.673
 
 unpro:           0.596491228070175
 unpro_ed:        0.634920634920635
